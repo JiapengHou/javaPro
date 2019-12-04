@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3648105d-791f-422d-baa7-78fb6d909d50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/.idea/javaPro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/day02_eesy_02mybatisDao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/day02_eesy_02mybatisDao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/log/axis.log" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/log/axis.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/SX8_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/SX8_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/src/main/java/com/itheima/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/src/main/java/com/itheima/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/src/main/resources/com/itheima/dao/IUserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/com/itheima/dao/IUserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/src/test/java/com/atheima/test/MybatisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/src/test/java/com/atheima/test/MybatisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/target/classes/com/itheima/dao/IUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/target/classes/com/itheima/dao/IUserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/target/classes/com/itheima/dao/IUserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/target/classes/com/itheima/dao/IUserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/target/classes/com/itheima/dao/SX8_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/target/classes/com/itheima/dao/SX8_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/target/classes/com/itheima/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/target/classes/com/itheima/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/target/classes/com/itheima/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/target/classes/com/itheima/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPro/day02_eesy_02mybatisDao/target/test-classes/com/atheima/test/MybatisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02mybatisDao/target/test-classes/com/atheima/test/MybatisTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/studyPrac/target/" />
     <ignored path="$PROJECT_DIR$/day02_eesy_02mybatisDao1/target/" />
@@ -35,18 +62,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="26" />
-          <entry key="log" value="1" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="8" />
+          <entry key="java" value="31" />
+          <entry key="log" value="2" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="26" />
-          <entry key="Log" value="1" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="8" />
+          <entry key="JAVA" value="31" />
+          <entry key="Log" value="2" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -66,19 +93,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studyPrac/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/log/axis.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/SX8_1.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/IUserDao.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/impl/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/com/itheima/dao/IUserDao.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/SqlMapConfig.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/test/java/com/atheima/test/MybatisTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/studyPrac/src/main/java/com/atstudy/day01/formatStringTest.java">
+        <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/.idea/misc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="228">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -155,7 +218,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1975" />
+    <option name="x" value="1983" />
     <option name="width" value="1141" />
     <option name="height" value="1002" />
   </component>
@@ -179,7 +242,7 @@
             <path>
               <item name="javaPro" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaPro" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPro" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_eesy_02mybatisDao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaPro" type="b2602c69:ProjectViewProjectNode" />
@@ -247,7 +310,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575451777533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575453578595" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -258,13 +321,13 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitTest\javaPro" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\GitTest\javaPro\day02_eesy_02mybatisDao1\src\test\java" />
       <recent name="D:\GitTest\javaPro\day02_eesy_02mybatisDao1\src\main\resources" />
       <recent name="D:\GitTest\javaPro\day02_eesy_02mybatisDao1\src\main\java" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GitTest\javaPro" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -385,7 +448,7 @@
       <workItem from="1575450257952" duration="682000" />
       <workItem from="1575451199062" duration="890000" />
       <workItem from="1575452228139" duration="1064000" />
-      <workItem from="1575453327876" duration="136000" />
+      <workItem from="1575453327876" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="day02代码更新提交--风">
       <created>1575449296269</created>
@@ -401,17 +464,24 @@
       <option name="project" value="LOCAL" />
       <updated>1575449904499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day02代码更新提交--风">
+      <created>1575453470271</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575453470271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55370000" />
+    <option name="totallyTimeSpent" value="55482000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1975" y="0" width="1141" height="1002" extended-state="0" />
+    <frame x="1983" y="0" width="1141" height="1002" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2747456" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2747456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,7 +496,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3156682" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3156682" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32949308" />
@@ -499,16 +569,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/.idea/misc.xml" />
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/IUserDao.java" />
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/impl/UserDaoImpl.java" />
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/domain/User.java" />
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/com/itheima/dao/IUserDao.xml" />
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/log4j.properties" />
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/SqlMapConfig.xml" />
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/test/java/com/atheima/test/MybatisTest.java" />
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/log/axis.log" />
-    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/SX8_1.java" />
     <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/pom.xml" />
     <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao1/src/main/java/com/itheima/dao/SX8_1.java" />
     <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao1/src/main/resources/com/itheima/dao/IUserDao.xml" />
@@ -538,8 +598,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studyPrac/src/main/java/com/atstudy/day01/formatStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="95">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/log/axis.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/SX8_1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/dao/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/java/com/itheima/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/com/itheima/dao/IUserDao.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/src/test/java/com/atheima/test/MybatisTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02mybatisDao/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
