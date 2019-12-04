@@ -16,9 +16,6 @@ class formatString{
 
     public formatString() {
     }
-//    public formatString(String str) {
-//        this.str = str;
-//    }
 
     public String getStr(){
         Calendar c = Calendar.getInstance();
