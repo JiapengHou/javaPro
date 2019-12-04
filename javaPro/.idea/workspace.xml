@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3648105d-791f-422d-baa7-78fb6d909d50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyPrac/src/main/java/com/atstudy/day01/formatStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/studyPrac/src/main/java/com/atstudy/day01/formatStringTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/studyPrac/target/" />
     <ignored path="$PROJECT_DIR$/day02_eesy_02mybatisDao1/target/" />
@@ -119,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studyPrac/src/main/java/com/atstudy/day01/formatStringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -304,7 +303,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575459421325" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575459719866" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -443,7 +442,7 @@
       <workItem from="1575451199062" duration="890000" />
       <workItem from="1575452228139" duration="1064000" />
       <workItem from="1575453327876" duration="848000" />
-      <workItem from="1575458485042" duration="925000" />
+      <workItem from="1575458485042" duration="1234000" />
     </task>
     <task id="LOCAL-00001" summary="day02代码更新提交--风">
       <created>1575449296269</created>
@@ -466,11 +465,18 @@
       <option name="project" value="LOCAL" />
       <updated>1575453470271</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day02代码更新提交--风">
+      <created>1575459650959</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575459650959</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57007000" />
+    <option name="totallyTimeSpent" value="57316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1983" y="0" width="1141" height="1002" extended-state="0" />
@@ -485,14 +491,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26382488" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49953747" visible="true" weight="0.26382488" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23963134" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3156682" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50046253" side_tool="true" weight="0.26382488" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32949308" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -627,8 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studyPrac/src/main/java/com/atstudy/day01/formatStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="247">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
